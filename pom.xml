@@ -44,7 +44,6 @@
 
 
   <scm>
-    <tag>0.0.2</tag>
       <developerConnection>scm:git:git@github.com:kodiers/petclinic.git</developerConnection>
   </scm>
 </project>
