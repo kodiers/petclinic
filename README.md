@@ -1,0 +1,1 @@
+[![kodiers](https://circleci.com/gh/kodiers/petclinic.svg?style=svg)](https://github.com/kodiers/petclinic)
